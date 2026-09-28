@@ -1,16 +1,34 @@
-## Hi there 👋
+# 📱 전국 스마트폰 시세표 및 좌표 공유 공식 네트워크
 
-<!--
-**yoonsungmin033/yoonsungmin033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+전국 최저가 스마트폰 시세표, 실시간 좌표, 할인 혜택 정보를 한곳에서 비교하고 확인할 수 있는 **공식 모바일 커뮤니티 및 정보 플랫폼 네트워크**입니다.
 
-Here are some ideas to get you started:
+최신 플래그십 기종(갤럭시, 아이폰 등)의 번호이동·기기변경 시세 정보와 통신사별 공시지원금, 제휴 할인 정보를 빠르고 투명하게 제공합니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 공식 웹 플랫폼 바로가기
+
+실시간 시세 비교와 지역별 좌표 검색을 지원하는 웹 서비스 모음입니다.
+
+* 🔹 **[성지나라닷컴 공식 웹사이트](https://sungjinara.com)**: 전국 시세표 비교 및 실시간 할인 정보 제공
+* 🔹 **[성지나라 플랫폼 바로가기](https://xn--oi2ba860j1wd.com)**: 모바일 최적화 성지 정보 검색 플랫폼
+* 🔹 **[성지매니아 허브](https://sungjihub.com)**: 전국 주요 매장 좌표 및 시세 통합 허브
+* 🔹 **[싸당 공식 사이트](https://thessadang.com)**: 합리적인 통신 소비를 위한 특가 정보 안내
+
+---
+
+## 👥 공식 네이버 카페 커뮤니티
+
+실사용자들의 생생한 구매 후기와 실시간 지역별 좌표 질의응답이 이루어지는 커뮤니티입니다.
+
+* ☕ **[성지나라 네이버 카페](https://cafe.naver.com/codud8134)**: 매일 업데이트되는 일일 시세표와 회원 구매 후기
+* ☕ **[성지매니아 공식 카페](https://cafe.naver.com/anyi)**: 초보자 가이드 및 지역별 최저가 좌표 공유
+* ☕ **[싸당 커뮤니티 카페](https://cafe.naver.com/dbskwkd)**: 알뜰 통신 꿀팁 및 기종별 정책 정보 공유
+
+---
+
+## 📌 주요 제공 정보
+
+1. **실시간 시세표 확인**: SKT, KT, LGU+ 통신 3사 및 알뜰폰 정책 매일 업데이트
+2. **지역별 좌표 공유**: 서울, 경기, 부산, 대구 등 전국 주요 성지 매장 안내
+3. **구매 가이드**: 공시지원금, 선택약정, 부가서비스 조건 등 호갱 방지 팁 제공
